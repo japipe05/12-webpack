@@ -10,7 +10,7 @@
 https://babeljs.io/setup#installation
 
 npm install --save-dev babel-loader @babel/core
-
+ 
 rules: [
       {
         test: /\.m?js$/,
